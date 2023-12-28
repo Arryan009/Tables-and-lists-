@@ -1,0 +1,318 @@
+body{
+    background-color: black;
+}
+
+ul{
+    position: relative;
+    bottom: 800px;
+    left: 100px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.claire{
+    position: relative;
+    bottom: 800px;
+    opacity: 45%;
+}
+
+.p2{
+    font-size: 50px;
+    position: relative;
+    bottom: 1650px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    position: relative;
+    bottom: 850px;
+}
+
+h2{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    bottom: 830px;
+}
+
+.h2{
+    position: relative;
+    bottom: 830px;
+    width: 10%;
+}
+
+img{
+    opacity: 50%;
+}
+
+.first{
+    position: relative;
+    bottom: 1630px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p3{
+    position: relative;
+    bottom: 1360px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.third{
+    font-size: 50px;
+    position: relative;
+    bottom: 2200px;
+}
+
+.second{
+    position: relative;
+    bottom: 2170px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p4{
+    position: relative;
+    bottom: 1890px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fourth{
+    font-size: 50px;
+    position: relative;
+    bottom: 2720px;
+}
+
+.p4table{
+    position: relative;
+    bottom: 2670px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p5{
+    position: relative;
+    bottom: 2417px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fifth{
+    font-size: 50px;
+    position: relative;
+    bottom: 3235px;
+}
+
+.p5table{
+    position: relative;
+    bottom: 3200px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.sixth{
+    font-size: 50px;
+    position: relative;
+    bottom: 3835px;
+}
+
+.p6{
+    position: relative;
+    bottom: 3000px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p6table{
+    position: relative;
+    bottom: 3800px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p7{
+    position: relative;
+    bottom: 3530px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.seventh{
+    font-size: 50px;
+    position: relative;
+    bottom: 4350px;
+}
+
+.p7table{
+    position: relative;
+    bottom: 4330px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p8{
+    position: relative;
+    bottom: 4060px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.eighth{
+    font-size: 50px;
+    position: relative;
+    bottom: 4890px;
+}
+
+.p8table{
+    position: relative;
+    bottom: 4870px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p9{
+    position: relative;
+    bottom: 4590px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.ninth{
+    font-size: 50px;
+    position: relative;
+    bottom: 5410px;
+}
+
+.p9table{
+    position: relative;
+    bottom: 5400px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p10{
+    position: relative;
+    bottom: 5120px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.tenth{
+    font-size: 50px;
+    position: relative;
+    bottom: 5980px;
+}
+
+.p10table{
+    position: relative;
+    bottom: 5960px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.p11{
+    position: relative;
+    bottom: 5647px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.eleventh{
+    font-size: 50px;
+    position: relative;
+    bottom: 6500px;
+}
+
+.p11table{
+    position: relative;
+    bottom: 6480px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}

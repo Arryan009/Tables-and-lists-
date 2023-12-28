@@ -1,0 +1,50 @@
+h1{
+    font-size: 60px;
+    font-family: monospace;
+    color: #D4D4D4;
+    position: relative;
+    bottom: 950px;
+}
+
+h2{
+    font-size: 15px;
+    position: relative;
+    bottom: -30px;
+    right: 70px;
+}
+
+h3{
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+}
+
+.register{
+    color: yellow;
+}
+
+.login{
+    color: red;
+}
+
+img{
+    opacity: 60%;
+}
+
+form{
+    color: #D4D4D4;
+    position: relative;
+    bottom: 850px;
+    opacity: 80%;
+}
+
+input{
+    background-color: #D4D4D4;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+    outline: orchid;
+}

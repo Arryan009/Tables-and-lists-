@@ -1,0 +1,45 @@
+h1{
+    font-size: 60px;
+    font-family: monospace;
+    color: #D4D4D4;
+    position: relative;
+    bottom: 850px;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    opacity: 50%;
+}
+
+form{
+    color: #D4D4D4;
+    position: relative;
+    bottom: 700px;
+    opacity: 80%;
+}
+
+label{
+    color: white;
+}
+
+.login{
+    color: yellow;
+}
+
+input{
+    background-color: #D4D4D4;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+    outline: orchid;
+}
+
+.register{
+    color: black;
+}
